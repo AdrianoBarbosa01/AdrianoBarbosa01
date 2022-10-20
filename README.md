@@ -1,4 +1,4 @@
-![Adriano Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano Barbosa01&show_icons=true&theme=dark)
+![Adriano Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoBarbosa&show_icons=true&theme=dark)
 
 <div>
 

@@ -1,7 +1,7 @@
-<div align="center">
-  <a href="https://github.com/AdrianoBarbosa01">
+ <a href="https://github.com/AdrianoBarbosa01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoBarbosa01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
+
+  ##
 
   <div>
 
@@ -21,7 +21,8 @@
 
 <div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-barbosa21/)          <a href = "mailto:adriano.barbosa21@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AdrianoApSBarbosa/)        
+<a href = "mailto:adriano.barbosa21@etec.sp.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 

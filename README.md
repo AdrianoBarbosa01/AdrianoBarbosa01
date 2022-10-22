@@ -1,10 +1,11 @@
 
 <div align="center">
   <a href="https://github.com/AdrianoBarbosa01">
- <img height="180em" src="https://github-readme-stats.vercel.app/api username=AdrianoBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=AdrianoBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarbosa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
+
+  <div>
 
 ![snake gif](https://github.com/AdrianoBarbosa01/AdrianoBarbosa01/blob/output/github-contribution-grid-snake.svg)
 

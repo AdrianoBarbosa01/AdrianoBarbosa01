@@ -1,6 +1,12 @@
- <h1 aling="center" size="25px">Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec</h2>
- <div>
- <a href="https://github.com/AdrianoBarbosa01">
+ <div aling="center" >
+ 
+ <h1 size="25px">Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec</h2>
+ 
+ </div>
+ 
+ 
+<div>
+<a href="https://github.com/AdrianoBarbosa01">
 <img width="480px" src="https://github-readme-stats.vercel.app/api?username=AdrianoBarbosa01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Barbosa" />
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarbosa01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Barbosa"">
 
@@ -9,7 +15,7 @@
 ##
 
 
-  <div>
+<div>
 
 ![snake gif](https://github.com/AdrianoBarbosa01/AdrianoBarbosa01/blob/output/github-contribution-grid-snake.svg)
 

@@ -1,7 +1,7 @@
  
  <div>
  <a href="https://github.com/AdrianoBarbosa01">
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=AdrianoBarbosa01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Barbosa" />
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=AdrianoBarbosa01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Barbosa" />
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarbosa01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adriano Barbosa"">
 
 </div>

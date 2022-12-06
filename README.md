@@ -1,6 +1,8 @@
 
  
- <h2 aling="center" size="22px">Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec</h2>
+ <h2 aling="center">
+ Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec
+</h2>
  
 
  

@@ -1,6 +1,6 @@
- <div aling="center" >
+ <div>
  
- <h1 size="25px">Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec</h2>
+ <h1 aling="center" size="22px">Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec</h2>
  
  </div>
  

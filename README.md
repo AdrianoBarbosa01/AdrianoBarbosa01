@@ -1,7 +1,7 @@
 
  
  <h2 aling="center">
-Sou programador de varías linguagens, atualmente estou realizando curso técnico na Fatec💻
+Sou programador de várias linguagens, atualmente estou realizando curso técnico na Fatec💻
 </h2>
  
 

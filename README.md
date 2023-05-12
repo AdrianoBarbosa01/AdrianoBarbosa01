@@ -1,7 +1,7 @@
 
  
  <h2 aling="center">
- Olá! Me chamo Adriano Barbosa e atualmente estudanto Desenvolvimento de Sistemas na Etec
+Sou programador de varías linguagens, atualmente estou realizando curso técnico na Fatec
 </h2>
  
 
